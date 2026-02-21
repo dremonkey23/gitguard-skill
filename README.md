@@ -104,4 +104,4 @@ REMEDIATION STEPS:
 
 ---
 
-Built by [Mirzayan LLC](https://mirzayanllc.com) | Powered by [LarryBrain](https://larrybrain.com)
+Built by [@drizzy8423](https://x.com/sheeptweetZ) | Powered by [LarryBrain](https://larrybrain.com)
