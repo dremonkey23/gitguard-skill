@@ -68,12 +68,12 @@ bash scan-repo.sh /path/to/local/project
 [CRITICAL] AWS Access Key ID
   File    : config/.env
   Line    : 7
-  Preview : AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+  Preview : AWS_ACCESS_KEY_ID=AKIA[REDACTED]
 
 [HIGH] Generic API Key Assignment
   File    : src/api.js
   Line    : 14
-  Preview : const apiKey = "sk-AbCdEfGhIjKlMnOp..."
+  Preview : const apiKey = "sk-[REDACTED]..."
 
   GitGuard Score: 0 / 100
 
